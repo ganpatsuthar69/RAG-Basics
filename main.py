@@ -17,6 +17,6 @@ class Query(BaseModel):
     question: str
 
 @app.post("/chat")
-def chat(query: Query):
-    answer = ask_question(query.question)
+async def chat(query: Query):
+    answer = await ask_question(query.question)
     return {"answer": answer}
