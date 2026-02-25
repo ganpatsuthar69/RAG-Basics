@@ -17,11 +17,10 @@ llm = ChatGoogleGenerativeAI(
     temperature=0)
 
 async def ask_question(query: str):
-    # Step 1: Query Expansion (Rewrite acronyms for better vector search)
+    
     rewrite_prompt = f"Rewrite this query by expanding any life insurance acronyms (e.g., ADB to Accidental Death Benefit, SA to Sum Assured). Return ONLY the rewritten query text: {query}"
     expanded_query = (await llm.ainvoke(rewrite_prompt)).content.strip()
 
-    # Step 2: Retrieve using the expanded query
     search_results = await vector_db.asimilarity_search(query=expanded_query, k=15)
 
     context = "\n\n".join([f"Page {doc.metadata.get('page_label', 'N/A')}:\n{doc.page_content}" for doc in search_results])

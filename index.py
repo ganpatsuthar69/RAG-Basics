@@ -8,10 +8,8 @@ from config import QDRANT_URL, QDRANT_API_KEY, COLLECTION_NAME
 
 pdf_path = Path(__file__).parent / "icic.pdf"
 
-# Extract Markdown from PDF (handles tables and OCR images natively)
 md_text = pymupdf4llm.to_markdown(str(pdf_path))
 
-# Wrap in Langchain Document format so downstream logic remains unchanged
 docs = [Document(page_content=md_text, metadata={"source": str(pdf_path)})]
 
 text_splitter = MarkdownTextSplitter(chunk_size=2500, chunk_overlap=300)
