@@ -1,0 +1,330 @@
+
+                    You are an expert document analyst.
+
+                    Answer the question strictly using the provided context.
+                    If the answer is partially available, explain clearly.
+                    If not found, say: "The document does not contain this information."
+
+                    Be precise and structured.
+
+                    Context:
+                    Page 24:
+Death Beneﬁt Sum Assured will be payable by Us as a lump 
+ sum subject to the terms and conditions below. 
+ii. This is an additional beneﬁt and will be paid in addition to 
+ the Death Beneﬁt. 
+iii. The Accident shall result in bodily injury or injuries to the Life 
+ Assured independently of any other means. Such injury or 
+ injuries shall, within 180 days of the occurrence of the 
+ Accident, directly and independently of any other means 
+ cause the death of the Life Assured before the expiry of the 
+ Policy Term.  However, for Life Plus, this beneﬁt will be 
+ payable even if death occurs beyond the Policy Term 
+ provided the Accident occurs within the Policy Term and the 
+ death is within 180 days of date of the Accident.
+iv. For Life Rebalancing plan variant, in case of an Accident 
+ occurring in 10th Policy Year and death of Life Assured 
+ happens in 11th Policy Year, Accidental Death Beneﬁt will 
+ not be payable even if the death has happened within 180 
+ days of the Accident.
+
+Page 23:
+Death Beneﬁt Sum Assured will be payable by Us as a lump 
+ sum subject to the terms and conditions below. 
+ii. This is an additional beneﬁt and will be paid in addition to 
+ the Death Beneﬁt. 
+iii. The Accident shall result in bodily injury or injuries to the Life 
+ Assured independently of any other means. Such injury or 
+ injuries shall, within 180 days of the occurrence of the 
+ Accident, directly and independently of any other means 
+ cause the death of the Life Assured before the expiry of the 
+ Policy Term.  However, for Life Plus, this beneﬁt will be 
+ payable even if death occurs beyond the Policy Term 
+ provided the Accident occurs within the Policy Term and the 
+ death is within 180 days of date of the Accident.
+iv. For Life Rebalancing plan variant, in case of an Accident 
+ occurring in 10th Policy Year and death of Life Assured 
+ happens in 11th Policy Year, Accidental Death Beneﬁt will 
+ not be payable even if the death has happened within 180 
+ days of the Accident.
+
+Page 22:
+Death Beneﬁt Sum Assured will be payable by Us as a lump 
+ sum subject to the terms and conditions below. 
+ii. This is an additional beneﬁt and will be paid in addition to 
+ the Death Beneﬁt. 
+iii. The Accident shall result in bodily injury or injuries to the Life 
+ Assured independently of any other means. Such injury or 
+ injuries shall, within 180 days of the occurrence of the 
+ Accident, directly and independently of any other means 
+ cause the death of the Life Assured before the expiry of the 
+ Policy Term.  However, for Life Plus, this beneﬁt will be 
+ payable even if death occurs beyond the Policy Term 
+ provided the Accident occurs within the Policy Term and the 
+ death is within 180 days of date of the Accident.
+iv. For Life Rebalancing plan variant, in case of an Accident 
+ occurring in 10th Policy Year and death of Life Assured 
+ happens in 11th Policy Year, Accidental Death Beneﬁt will 
+ not be payable even if the death has happened within 180 
+ days of the Accident.
+
+Page 20:
+Death Beneﬁt Sum Assured will be payable by Us as a lump 
+ sum subject to the terms and conditions below. 
+ii. This is an additional beneﬁt and will be paid in addition to 
+ the Death Beneﬁt. 
+iii. The Accident shall result in bodily injury or injuries to the Life 
+ Assured independently of any other means. Such injury or 
+ injuries shall, within 180 days of the occurrence of the 
+ Accident, directly and independently of any other means 
+ cause the death of the Life Assured before the expiry of the 
+ Policy Term.  However, for Life Plus, this beneﬁt will be 
+ payable even if death occurs beyond the Policy Term 
+ provided the Accident occurs within the Policy Term and the 
+ death is within 180 days of date of the Accident.
+iv. For Life Rebalancing plan variant, in case of an Accident 
+ occurring in 10th Policy Year and death of Life Assured 
+ happens in 11th Policy Year, Accidental Death Beneﬁt will 
+ not be payable even if the death has happened within 180 
+ days of the Accident.
+
+Page 21:
+Death Beneﬁt Sum Assured will be payable by Us as a lump 
+ sum subject to the terms and conditions below. 
+ii. This is an additional beneﬁt and will be paid in addition to 
+ the Death Beneﬁt. 
+iii. The Accident shall result in bodily injury or injuries to the Life 
+ Assured independently of any other means. Such injury or 
+ injuries shall, within 180 days of the occurrence of the 
+ Accident, directly and independently of any other means 
+ cause the death of the Life Assured before the expiry of the 
+ Policy Term.  However, for Life Plus, this beneﬁt will be 
+ payable even if death occurs beyond the Policy Term 
+ provided the Accident occurs within the Policy Term and the 
+ death is within 180 days of date of the Accident.
+iv. For Life Rebalancing plan variant, in case of an Accident 
+ occurring in 10th Policy Year and death of Life Assured 
+ happens in 11th Policy Year, Accidental Death Beneﬁt will 
+ not be payable even if the death has happened within 180 
+ days of the Accident.
+
+Page 21:
+occurring in 10th Policy Year and death of Life Assured 
+ happens in 11th Policy Year, Accidental Death Beneﬁt will 
+ not be payable even if the death has happened within 180 
+ days of the Accident.
+v. In the event of the death of the Life Assured after 180 days 
+ of the occurrence of the Accident, the Company shall not be 
+ liable to pay the Accidental Death Beneﬁt. 
+vi. The Policy must be in In Force as on the date of
+ the Accident. 
+vii.Upon payment of the Accidental Death Beneﬁt to the 
+ Claimant, the Policy will terminate and all rights, beneﬁts 
+ and interests under the Policy will stand extinguished.
+In the event of the death of the Life Assured and upon 
+subsequent receipt of intimation of the death claim (with 
+required supporting documents) by the Company, the 
+Company shall pay an accelerated Death Beneﬁt of 
+₹ 3,00,000/- (Rupees Three Lakhs only). This accelerated 
+Death Beneﬁt shall be processed by the Company within one
+
+Page 20:
+occurring in 10th Policy Year and death of Life Assured 
+ happens in 11th Policy Year, Accidental Death Beneﬁt will 
+ not be payable even if the death has happened within 180 
+ days of the Accident.
+v. In the event of the death of the Life Assured after 180 days 
+ of the occurrence of the Accident, the Company shall not be 
+ liable to pay the Accidental Death Beneﬁt. 
+vi. The Policy must be in In Force as on the date of
+ the Accident. 
+vii.Upon payment of the Accidental Death Beneﬁt to the 
+ Claimant, the Policy will terminate and all rights, beneﬁts 
+ and interests under the Policy will stand extinguished.
+In the event of the death of the Life Assured and upon 
+subsequent receipt of intimation of the death claim (with 
+required supporting documents) by the Company, the 
+Company shall pay an accelerated Death Beneﬁt of 
+₹ 3,00,000/- (Rupees Three Lakhs only). This accelerated 
+Death Beneﬁt shall be processed by the Company within one
+
+Page 23:
+occurring in 10th Policy Year and death of Life Assured 
+ happens in 11th Policy Year, Accidental Death Beneﬁt will 
+ not be payable even if the death has happened within 180 
+ days of the Accident.
+v. In the event of the death of the Life Assured after 180 days 
+ of the occurrence of the Accident, the Company shall not be 
+ liable to pay the Accidental Death Beneﬁt. 
+vi. The Policy must be in In Force as on the date of
+ the Accident. 
+vii.Upon payment of the Accidental Death Beneﬁt to the 
+ Claimant, the Policy will terminate and all rights, beneﬁts 
+ and interests under the Policy will stand extinguished.
+In the event of the death of the Life Assured and upon 
+subsequent receipt of intimation of the death claim (with 
+required supporting documents) by the Company, the 
+Company shall pay an accelerated Death Beneﬁt of 
+₹ 3,00,000/- (Rupees Three Lakhs only). This accelerated 
+Death Beneﬁt shall be processed by the Company within one
+
+Page 22:
+occurring in 10th Policy Year and death of Life Assured 
+ happens in 11th Policy Year, Accidental Death Beneﬁt will 
+ not be payable even if the death has happened within 180 
+ days of the Accident.
+v. In the event of the death of the Life Assured after 180 days 
+ of the occurrence of the Accident, the Company shall not be 
+ liable to pay the Accidental Death Beneﬁt. 
+vi. The Policy must be in In Force as on the date of
+ the Accident. 
+vii.Upon payment of the Accidental Death Beneﬁt to the 
+ Claimant, the Policy will terminate and all rights, beneﬁts 
+ and interests under the Policy will stand extinguished.
+In the event of the death of the Life Assured and upon 
+subsequent receipt of intimation of the death claim (with 
+required supporting documents) by the Company, the 
+Company shall pay an accelerated Death Beneﬁt of 
+₹ 3,00,000/- (Rupees Three Lakhs only). This accelerated 
+Death Beneﬁt shall be processed by the Company within one
+
+Page 24:
+occurring in 10th Policy Year and death of Life Assured 
+ happens in 11th Policy Year, Accidental Death Beneﬁt will 
+ not be payable even if the death has happened within 180 
+ days of the Accident.
+v. In the event of the death of the Life Assured after 180 days 
+ of the occurrence of the Accident, the Company shall not be 
+ liable to pay the Accidental Death Beneﬁt. 
+vi. The Policy must be in In Force as on the date of
+ the Accident. 
+vii.Upon payment of the Accidental Death Beneﬁt to the 
+ Claimant, the Policy will terminate and all rights, beneﬁts 
+ and interests under the Policy will stand extinguished.
+In the event of the death of the Life Assured and upon 
+subsequent receipt of intimation of the death claim (with 
+required supporting documents) by the Company, the 
+Company shall pay an accelerated Death Beneﬁt of 
+₹ 3,00,000/- (Rupees Three Lakhs only). This accelerated 
+Death Beneﬁt shall be processed by the Company within one
+
+Page 7:
+iii. From the 11th Policy Year onwards, no Accidental Death Beneﬁt will be payable on  the event of death 
+ of the Life Assured due to an Accident and only the Sum Assured on Death shall be payable by the Company.
+iv. Under this variant, the Sum Assured on Death and Accidental Death Beneﬁt (“ADB”) Sum Assured will 
+ be set as a percentage of the chosen Sum Assured as outlined in the table below:
+v. The Sum Assured on death and the Accidental Death Beneﬁt (“ADB”) Sum Assured payable to the 
+ Claimant shall vary depending on the Policy Year of death of the Life Assured. 
+vi. The Terms and conditions for Accidental Death Beneﬁt are mentioned in T&C, clause 3. 
+4. The following conditions are applicable for all the Plan Variants:
+a) For all the plan variants, in the event of the death of the Life Assured on the Date of Maturity, then Death 
+ Beneﬁt shall not be payable and policy shall terminate with all rights and beneﬁts.
+
+Page 7:
+a) For all the plan variants, in the event of the death of the Life Assured on the Date of Maturity, then Death 
+ Beneﬁt shall not be payable and policy shall terminate with all rights and beneﬁts.
+b) For Life Plus, in the event the Life Assured meets with an Accident on the Date of Maturity subsequently 
+ resulting in his death then Accidental Death Beneﬁt Sum Assured is not payable.
+c) The Policy shall terminate upon payment of the Death Beneﬁt to the Claimant and all rights, beneﬁts 
+ and interests under the Policy will stand extinguished.
+d) The Death Beneﬁt amount may be taxable as per the prevailing tax laws. 
+Policy Year of Death Sum Assured on Death
+(Percentage of sum 
+assured chosen)
+ADB Sum Assured
+(Percentage of sum 
+assured chosen)
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11th year onwards
+25.0%
+32.5%
+40.0%
+47.5%
+55.0%
+62.5%
+70.0%
+77.5%
+85.0%
+92.5%
+100%
+75.0%
+67.5%
+60.0%
+52.5%
+45.0%
+37.5%
+30.0%
+22.5%
+15.0%
+7.5%
+0%
+
+Page 22:
+If the Life Assured, whether sane or insane, commits suicide 
+within 12 months from the date of commencement of risk of this 
+Policy, the Company will refund higher of 80% of the total 
+premiums paid, if any till the date of death or unexpired risk 
+premium value as available on date of death, provided the 
+policy is in force.
+In the case of a revived Policy, if the Life Assured, whether sane 
+or insane, commits suicide within 12 months of the date of 
+revival of the Policy, higher of 80% of the total premiums paid, if 
+any till date of death or unexpired risk premium value as 
+available on date of death will be payable by the Company.
+The Policy will terminate on making such a payment and all 
+rights, beneﬁts and interests under the Policy will stand 
+extinguished.
+If You are unable to pay an instalment Premium by the due 
+date, you will be given a grace period of 15 days for payment 
+of due instalment Premium if You have chosen monthly
+
+Page 20:
+If the Life Assured, whether sane or insane, commits suicide 
+within 12 months from the date of commencement of risk of this 
+Policy, the Company will refund higher of 80% of the total 
+premiums paid, if any till the date of death or unexpired risk 
+premium value as available on date of death, provided the 
+policy is in force.
+In the case of a revived Policy, if the Life Assured, whether sane 
+or insane, commits suicide within 12 months of the date of 
+revival of the Policy, higher of 80% of the total premiums paid, if 
+any till date of death or unexpired risk premium value as 
+available on date of death will be payable by the Company.
+The Policy will terminate on making such a payment and all 
+rights, beneﬁts and interests under the Policy will stand 
+extinguished.
+If You are unable to pay an instalment Premium by the due 
+date, you will be given a grace period of 15 days for payment 
+of due instalment Premium if You have chosen monthly
+
+Page 23:
+If the Life Assured, whether sane or insane, commits suicide 
+within 12 months from the date of commencement of risk of this 
+Policy, the Company will refund higher of 80% of the total 
+premiums paid, if any till the date of death or unexpired risk 
+premium value as available on date of death, provided the 
+policy is in force.
+In the case of a revived Policy, if the Life Assured, whether sane 
+or insane, commits suicide within 12 months of the date of 
+revival of the Policy, higher of 80% of the total premiums paid, if 
+any till date of death or unexpired risk premium value as 
+available on date of death will be payable by the Company.
+The Policy will terminate on making such a payment and all 
+rights, beneﬁts and interests under the Policy will stand 
+extinguished.
+If You are unable to pay an instalment Premium by the due 
+date, you will be given a grace period of 15 days for payment 
+of due instalment Premium if You have chosen monthly
+
+                    Question:
+                    How is ADB Calculated in the 5th policy year
+             

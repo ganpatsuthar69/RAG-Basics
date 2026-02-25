@@ -11,3 +11,5 @@ pypdf
 google-generativeai
 sentence-transformers
 torch
+pymupdf4llm
+rapidocr-onnxruntime
