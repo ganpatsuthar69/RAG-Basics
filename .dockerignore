@@ -1,0 +1,20 @@
+# Virtual environment
+myenv/
+env/
+venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Frontend code (since we are only containerizing the backend here)
+frontend/
+
+# Git
+.git/
+
+# Env files
+.env
+
+# Raw PDF if not needed for runtime (Optional, but included here just in case)
+# icic.pdf 

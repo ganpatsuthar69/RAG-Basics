@@ -29,7 +29,8 @@ const ChatInterface = () => {
         setInput('');
 
         try {
-            const response = await fetch('http://localhost:8000/chat', {
+            const apiUrl = import.meta.env.VITE_API_URL || 'http://localhost:8000';
+            const response = await fetch(`${apiUrl}/chat`, {
                 method: 'POST',
                 headers: {
                     'Content-Type': 'application/json',
@@ -95,8 +96,8 @@ const ChatInterface = () => {
                         >
                             <div
                                 className={`max-w-[75%] px-5 py-4 ${msg.role === 'user'
-                                        ? 'bg-orange-500 text-white font-medium rounded-2xl rounded-tr-sm shadow-md'
-                                        : 'bg-white border border-slate-200 text-slate-700 font-normal rounded-2xl rounded-tl-sm shadow-sm'
+                                    ? 'bg-orange-500 text-white font-medium rounded-2xl rounded-tr-sm shadow-md'
+                                    : 'bg-white border border-slate-200 text-slate-700 font-normal rounded-2xl rounded-tl-sm shadow-sm'
                                     }`}
                             >
                                 {msg.role === 'assistant' ? (
